@@ -16,6 +16,19 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
+```
+
+num1 = 123
+num2 = 456
+num3 = 789
+
+print(num1, num2, num3)
+```
 
 ## Output
+<img width="627" height="284" alt="image" src="https://github.com/user-attachments/assets/12252585-5e8f-43e9-9e3b-521bf0961bfa" />
+
 ## Result
+Thus, the Python program to print the integer literals 123, 456, and 789 was successfully created and executed.
+
+
