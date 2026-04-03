@@ -17,18 +17,23 @@ To write a Python program that evaluates and prints the results of boolean and a
 ## 💻 Program
 Add Code here
 ```
+a = (1 == True)
 
-num1 = 123
-num2 = 456
-num3 = 789
+b = (0== False)
 
-print(num1, num2, num3)
+c = True + 5
+
+d = False + 9
+ 
+print("a is", a)
+print("b is", b)
+print("c:", c)
+print("d:", d)
 ```
 
 ## Output
-<img width="627" height="284" alt="image" src="https://github.com/user-attachments/assets/12252585-5e8f-43e9-9e3b-521bf0961bfa" />
+<img width="807" height="257" alt="image" src="https://github.com/user-attachments/assets/12edcb7b-0716-47ef-abf8-cf4d22f604fe" />
+
 
 ## Result
-Thus, the Python program to print the integer literals 123, 456, and 789 was successfully created and executed.
-
-
+Thus Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
