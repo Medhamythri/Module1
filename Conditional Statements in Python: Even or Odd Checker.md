@@ -15,23 +15,18 @@ To write a Python program to check whether the given number is **even** or **odd
 ```
 
 
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
 
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
-
-print(string_single_quotes)
-print(string_double_quotes)
+a = int(input())
+if a % 2 == 0:
+    print("EVEN")
+else:
+    print("ODD")
 ```
 
 ## Output
-<img width="810" height="252" alt="image" src="https://github.com/user-attachments/assets/5b0810af-5894-4bab-83ae-26cc68a92e60" />
+
+<img width="407" height="295" alt="image" src="https://github.com/user-attachments/assets/3c5ef8e1-5bb9-4533-8d16-3fb05a4d113f" />
 
 
 ## Result
-Thus the Python program to print the string in multiple lines using triple quotes has been implemented and executed successfully
+The program was successfully executed. It correctly identified whether the given number is even or odd using if..else statement.
